@@ -1,4 +1,6 @@
-#include "UDPClient.cpp"
+#include "UDPClient.hpp"
+#include <iostream>
+#include <string>
 
 int main() {
     const std::string serverIP = "127.0.0.1";

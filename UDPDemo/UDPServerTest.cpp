@@ -1,4 +1,4 @@
-#include "UDPServer.cpp"
+#include "UDPServer.hpp"
 
 int main() {
     const int port = 8080;
